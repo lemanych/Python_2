@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<group>
+    <student id="8">
+        <firstname>Roman</firstname>
+        <lastname>Morskyi</lastname>
+        <nickname>Graph</nickname>
+        <mark>51</mark>
+    </student>
+    <student id="007">
+        <firstname>Ivan</firstname>
+        <lastname>Prodanets</lastname>
+        <nickname>Fabri</nickname>
+        <mark>88</mark>
+    </student>
+</group>
